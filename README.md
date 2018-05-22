@@ -26,4 +26,5 @@ Leaf 是一款支持直式閱讀的免費電子書閱讀器。
 
 * **Kelvin Hsu**: whkelvin@icloud.com
 
-
+## 我要捐款
+coming soon
